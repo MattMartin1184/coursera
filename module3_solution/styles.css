@@ -1,0 +1,21 @@
+/**HEADER **/
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+#nav-list {
+	text-align: center;
+	background-color: lightblue;
+}
+
+/**MAIN BODY*/
+h1 {
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+p {
+	background-color: lightcoral;
+	height: 1000px;
+}
